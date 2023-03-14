@@ -8,8 +8,8 @@ on:
 env:
   SOURCE_URL: https://github.com/immortalwrt/immortalwrt
   SOURCE_BRANCH: openwrt-21.02
-  CONFIG_FILE: configs/d2.config
-  DIY_SCRIPT: scripts/diy/d2-immortalwrt.sh
+  CONFIG_FILE: configs/Rm-ac2100.config
+  DIY_SCRIPT: scripts/diy/RM2-immortalwrt.sh
   COM_SCRIPT: scripts/common.sh
   TOOLCHAIN_TAG: Toolchain
   OPENWRT_RELEASE_TAG: Newifi_D2
