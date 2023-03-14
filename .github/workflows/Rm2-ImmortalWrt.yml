@@ -12,7 +12,7 @@ env:
   DIY_SCRIPT: scripts/diy/Rm2-ImmortalWrt.sh
   COM_SCRIPT: scripts/common.sh
   TOOLCHAIN_TAG: Toolchain
-  OPENWRT_RELEASE_TAG: Newifi_D2
+  OPENWRT_RELEASE_TAG: Redmi_Ac2100
   SOURCE: immortalwrt
   TZ: Asia/Shanghai
 
